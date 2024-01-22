@@ -1,1 +1,3 @@
-D:\MengyaJam\MengyaJam
+version https://git-lfs.github.com/spec/v1
+oid sha256:48839146bdb7ef9218b3799ff98bb7d183afd5875e19ab228d484d395c16d34a
+size 22
