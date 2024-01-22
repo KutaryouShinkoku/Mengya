@@ -1,18 +1,3 @@
-# Advanced customization and development
-
-> [!NOTE] 
-> For versions 2019/2020 LTS, download the Visual Scripting package from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/visual-bolt-163802).
-
-You can customize and extend the basic functionality of Visual Scripting using C# code. 
-
-## Create a Script Graph node 
-
-Using a C# script, you can [create your own Script Graph node](vs-creating-visual-script-graph-node.md) and add more functionality to your Visual Scripting graphs. 
-
-## Create a custom event node 
-
-You can trigger logic in your application by [creating a custom event node](vs-creating-custom-visual-script-event-node.md). 
-
-## Add custom types to Visual Scripting 
-
-Add your own [custom classes and types in Visual Scripting](vs-custom-types.md) to store information more efficiently. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d8cc42b8131a62fc10b5c7367b9f33d8b47d88d3ee6a18ac164913c2527f5e
+size 824
