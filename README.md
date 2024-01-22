@@ -1,2 +1,0 @@
-# Mengya
-Mengya game jam
